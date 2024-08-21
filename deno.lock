@@ -3,9 +3,7 @@
   "packages": {
     "specifiers": {
       "jsr:@std/assert@1": "jsr:@std/assert@1.0.2",
-      "jsr:@std/encoding": "jsr:@std/encoding@1.0.1",
-      "jsr:@std/encoding@1": "jsr:@std/encoding@1.0.1",
-      "jsr:@std/encoding@^1.0.1": "jsr:@std/encoding@1.0.1",
+      "jsr:@std/encoding@^1.0.1": "jsr:@std/encoding@1.0.2",
       "jsr:@std/internal@^1.0.1": "jsr:@std/internal@1.0.1"
     },
     "jsr": {
@@ -15,8 +13,8 @@
           "jsr:@std/internal@^1.0.1"
         ]
       },
-      "@std/encoding@1.0.1": {
-        "integrity": "5955c6c542ebb4ce6587c3b548dc71e07a6c27614f1976d1d3887b1196cf4e65"
+      "@std/encoding@1.0.2": {
+        "integrity": "7ed640c777e3275550e2cd937c440acdbebfdcd2d13ef67052f0536bf43e707f"
       },
       "@std/internal@1.0.1": {
         "integrity": "6f8c7544d06a11dd256c8d6ba54b11ed870aac6c5aeafff499892662c57673e6"
